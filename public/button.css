@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100&family=Sacramento&family=Unna:ital,wght@0,400;0,700;1,400;1,700&family=Zeyada&display=swap');
+
+h1{
+  text-align: center;
+   font-family: "Unna", serif;
+}
+.unna-regular {
+  font-family: "Unna", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#body{
+  font-family: "Unna", serif;
+  background-color:#edede9;  
+}
+.navbar-transparent{
+   background-color: rgba(255, 255, 255, 0.5);
+}
+.navbar-text{
+   font-family: "Unna", serif;
+}
+.nav-brand{
+   font-size: 40px;
+   font-family: "Unna", serif;
+}
+.nav-item{
+  font-size: 20px;
+   font-family: "Unna", serif;
+}
+
+#carouselExampleCaptions{
+  padding: 0 ;
+}
+.card{
+  background-color:#edede9;
+}
+
+h6{
+  text-align:center;
+}
+p{
+  text-align:center;
+}
+a{
+   text-align:center;
+}
+.container {
+  border-style: solid;
+  border-color: #c71f37;
+}
+.card-text{
+   font-family: "Unna", serif;
+}
+.card-title{
+  font-family: "Unna", serif;
+  text-align : center;
+}
+.delete{
+   margin: 0 auto;
+}
